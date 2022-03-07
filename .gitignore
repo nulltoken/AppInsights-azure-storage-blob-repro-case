@@ -1,0 +1,8 @@
+/node_modules/
+/coverage/
+/.vscode/
+/certs/
+/dist/
+/azurite-logs/
+__pycache__/
+perf/*.csv
